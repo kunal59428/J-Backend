@@ -7,8 +7,7 @@
     "start": "nodemon index.js"
   },
   "keywords": [
-    "node",
-    "chai"
+    "node"
   ],
   "author": "kunal",
   "license": "ISC",
